@@ -1,0 +1,20 @@
+{
+  "name": "patialaruralios",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {
+  "build": "mkdir -p dist && cp -r * dist || true"
+}
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@capacitor/cli": "^7.5.0",
+    "@capacitor/core": "^8.1.0",
+    "@capacitor/ios": "^8.1.0"
+  }
+}

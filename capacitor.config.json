@@ -1,0 +1,9 @@
+{
+  "appId": "com.patialarural.app",
+  "appName": "Patiala Rural",
+  "webDir": "www",
+  "server": {
+    "url": "https://patialarural.replit.app",
+    "cleartext": true
+  }
+}
